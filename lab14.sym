@@ -1,0 +1,21 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	STARTOVER         3007
+//	OUTERLOOP         3008
+//	SEARCH            300C
+//	INNERLOOP         3014
+//	PRINTCHAR         3018
+//	PRINTOUT          301A
+//	NEXTCHAR          301E
+//	SUMMARY           3020
+//	EXIT              3026
+//	SIX               3027
+//	EIGHT             3028
+//	SPACE             3029
+//	STAR              302A
+//	STRING            302B
+//	ASCI              302C
+//	FONT_DATA         302D
+
